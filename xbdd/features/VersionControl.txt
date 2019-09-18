@@ -1,0 +1,7 @@
+Version control/revision control/source control is a system that records changes to a file or set of files over time so that you can recall specific versions later. 
+
+Local VCS, as the name suggests are Version Control Systems that track the changes to a file on a Local System. Usually,
+Local VCS would store the changes to a file in a Local Database. VCS, in general, have got advance these days.
+
+The main difference between centralized and distributed version control is that, in centralized version control, the versions are saved in the remote repository, 
+while in distributed version control, versions can be saved in the remote repository as well as in local repositories of the local machines.
