@@ -7,7 +7,7 @@ public class StringsEx {
 	public static void main(String[] args)
 	{
 		String name = "vivek@ananda@Reddy@1234";
-		String st[] = name.split("@",3);
+		String st[] = name.split("@",4);
 		
 		for (String string : st) 
 		{
