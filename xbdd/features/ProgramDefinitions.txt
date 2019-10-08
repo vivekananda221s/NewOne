@@ -1,0 +1,13 @@
+A prime number is a positive integer which is divisible only by 1 and itself.For example: 2, 3, 5, 7, 11, 13
+
+Sum of the divisors of given number Excluding itself is equal to actual numbers is called Perfect Number.
+
+In case of an Armstrong number of 3 digits, the sum of cubes of each digits is equal to the number itself. For example:
+153 = 1*1*1 + 5*5*5 + 3*3*3  // 153 is an Armstrong number.
+
+An integer is a palindrome if the reverse of that number is equal to the original number
+
+Strong number is a number for which sum of factorials of the digits is equal to the given number. 
+Eg: let us consider 145 where sum of factorials of the digits= 1!+4!+5!=1+24+120=145
+
+is the product of all positive integers less than or equal to n: n!=n×(n-1)×(n-2)×(n-3)×⋯×3×2×1 is factorial
