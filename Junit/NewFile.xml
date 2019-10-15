@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="default">
+		<groups>
+
+			<run>
+
+					<include name="xx"></include>
+
+			</run>
+
+		</groups>
+
+
+
+
+
+		<test name="testfirefox" verbose="2">
+
+					<classes>
+
+							<class name="Grouping.X"></class>
+
+							<class name="Grouping.Y"></class>
+
+							<class name="Grouping.Z"></class>
+
+					</classes>
+
+		</test>
+
+</suite>
